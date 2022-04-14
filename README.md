@@ -14,11 +14,11 @@ Notebook: taha_sidewalk_ratio.ipynb
 Name: Ben Farbo 
 Email: BCF22@pitt.edu
 Notebook: Final_Stairs_BCF22.ipynb
-Data Set Used: https://data.wprdc.org/dataset/city-steps 
-Description: Dataset by the Ciry of Pittsburgh listing all the neighborhoods and the staircases associated
 
 
 ## Canvas Group Number: 39
 
 
 ## Data Set
+Data Set Used: https://data.wprdc.org/dataset/city-steps 
+Description: Dataset by the Ciry of Pittsburgh listing all the neighborhoods and the staircases associated
