@@ -3,7 +3,7 @@
 ## Team Information
 
 Name: Michael Mascilli 
-Email:
+Email: MAM1048@pitt.edu
 Notebook: City_Of_Pittsburgh_Traffic_Count.ipynb
 
 Name: Taha Ahmad
